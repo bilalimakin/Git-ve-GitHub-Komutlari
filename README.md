@@ -86,10 +86,28 @@ Versiyon Kontrolleri: Git ve GitHub Notları
 
 **git rebase (branch adı):** belirtien  branchtaki commitleri ve kendi branchtaki commitleri hizalar.
 
+**git clone :** globall den locale projeyi kopyalar.
 
-## GitHub
+**git push :** localden globalle Projeyi gönderir.
+
+
+
+
+### GitHub 'a Projeyi Pushlama
 
 git remote add origin (GİTHUP - URL)
 git push -u origin master
+
+git branch Bilal : bilal adında bir branch oluşturdum.
+git push origin Bilal : branch pustladım
+
+### Github tan locali serkonize etme
+
+git feth Kullanımı :
+git fetch origin master
+git pull = git fetch + git merge
+
+
+
 
 
