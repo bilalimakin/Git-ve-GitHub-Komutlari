@@ -1,2 +1,3 @@
 # Git-ve-GitHub-Komutlari
-Versiyon Kontrolleri: Git ve GitHub Notlar
+
+Versiyon Kontrolleri: Git ve GitHub Notları
