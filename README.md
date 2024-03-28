@@ -27,7 +27,7 @@ Versiyon Kontrolleri: Git ve GitHub Notları
 
 **_git config --global --unset-all user.email :_** Kayıtlı Emailleri siler.
 
-![Git İkonu](img/git-1.png)
+
 
 
 ## Git Bash Temellleri
@@ -46,7 +46,7 @@ Versiyon Kontrolleri: Git ve GitHub Notları
 
 **_git rm -rf .git :_** .git dosyasını siler.
 
-![Git İkonu](img/git-2.png)
+
 
 **git log :** Eklenen Commitleri gösterir.
 
